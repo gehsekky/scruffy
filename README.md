@@ -1,2 +1,3 @@
 # scruffy
-an app to clean js/json snippets
+
+an electron app to clean js/json snippets.
